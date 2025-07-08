@@ -6,11 +6,10 @@ My name is Khoa Truong Dinh. I am a Student at DNC University. I am interested i
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/vietnh1009/QuickDraw/">
+<a href="https://github.com/bazzi24/Crawl_Data_From_Cafef">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=Crawl_Data_From_Cafef&theme=radical" />
 </a>    
 <a href="https://github.com/vietnh1009/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
