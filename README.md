@@ -7,24 +7,17 @@ My name is Khoa Truong Dinh. I am interested in the following topics: Data Engin
 
 
 
-<a href="https://github.com/bazzi24/streamflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=streamflow&theme=radical" />
-</a>    
-<a href="https://github.com/bazzi24/Crawl_NewsStock_From_Cafef/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=Crawl_NewsStock_From_Cafef&theme=merko" />
-</a>
 
-<a href="https://github.com/bazzi24/arxiv-pdf-harvester/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=arxiv-pdf-harvester&theme=gruvbox" />
-</a>    
+| | |
+|:---:|:---:|
+| <a href="https://github.com/bazzi24/streamflow/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzi24&repo=streamflow&theme=radical" /></a> | <a href="https://github.com/bazzi24/Crawl_NewsStock_From_Cafef/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzi24&repo=Crawl_NewsStock_From_Cafef&theme=radical" /></a> |
+| <a href="https://github.com/bazzi24/arxiv-pdf-harvester/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzi24&repo=arxiv-pdf-harvester&theme=radical" /></a> | <a href="https://github.com/bazzi24/Crawl_Data_From_Cafef/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bazzi24&repo=Crawl_Data_From_Cafef&theme=radical" /></a> |
 
-<a href="https://github.com/bazzi24/Crawl_Data_From_Cafef/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=Crawl_Data_From_Cafef&theme=radical" />
-</a>    
+---
+
+
+![Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=bazzi24&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bazzi24&layout=compact&theme=radical)
 
 
 
