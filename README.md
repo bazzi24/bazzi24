@@ -7,23 +7,24 @@ My name is Khoa Truong Dinh. I am interested in the following topics: Data Engin
 
 
 
-<a href="https://github.com/bazzi24/streamflow.git">
+<a href="https://github.com/bazzi24/streamflow/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=streamflow&theme=radical" />
 </a>    
-<a href="https://github.com/bazzi24/Crawl_NewsStock_From_Cafef.git">
+<a href="https://github.com/bazzi24/Crawl_NewsStock_From_Cafef/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=Crawl_NewsStock_From_Cafef&theme=merko" />
 </a>
 
-<a href="https://github.com/bazzi24/arxiv-pdf-harvester.git">
+<a href="https://github.com/bazzi24/arxiv-pdf-harvester/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=arxiv-pdf-harvester&theme=gruvbox" />
 </a>    
-<a href="https://github.com/bazzi24/CrawlData.git">
+
+<a href="https://github.com/bazzi24/Crawl_Data_From_Cafef/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/username=bazzi24&repo=CrawlData&theme=dark" />
-</a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=Crawl_Data_From_Cafef&theme=radical" />
+</a>    
 
 
 
