@@ -11,7 +11,7 @@ My name is Khoa Truong Dinh. I am interested in the following topics: Data Engin
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=streamflow&theme=radical" />
 </a>    
-<a href="https://github.com/bazzi24/Crawl_NewsStock_From_Cafef">
+<a href="https://github.com/bazzi24/Crawl_NewsStock_From_Cafef.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=Crawl_NewsStock_From_Cafef&theme=merko" />
 </a>
@@ -20,11 +20,10 @@ My name is Khoa Truong Dinh. I am interested in the following topics: Data Engin
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=arxiv-pdf-harvester&theme=gruvbox" />
 </a>    
-<a href="https://github.com/bazzi24/CrawlData">
+<a href="https://github.com/bazzi24/CrawlData.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bazzi24&repo=CrawlData&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/username=bazzi24&repo=CrawlData&theme=dark" />
 </a>
-
 
 
 
