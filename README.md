@@ -3,7 +3,7 @@ My name is Khoa Truong Dinh. I am interested in the following topics: Data Engin
 
 ### 📫 Connect with me:
 <a href="https://bazzispitc.vercel.app/">
-  <img src="public/logo.png" alt="Portfolio Badge">
+  <img src="public/logo.png" alt="Portfolio Badge" height="30">
 </a>
 <a href="https://www.linkedin.com/in/khoa-truong-dinh-104748303/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
