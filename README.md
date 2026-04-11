@@ -5,11 +5,25 @@ My name is Khoa Truong Dinh. I am interested in the following topics: Data Engin
 <a href="https://bazzispitc.vercel.app/">
   <img src="public/logo.png" alt="Portfolio Badge" height="30">
 </a>
+
 <a href="https://www.linkedin.com/in/khoa-truong-dinh-104748303/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
+
 <a href="https://github.com/bazzi24">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+</a>
+
+<a href="https://x.com/bazzi242">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X Badge">
+</a>
+
+<a href="https://hub.docker.com/u/bazzi24">
+  <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+</a>
+
+<a href="https://huggingface.co/bazzi24">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Badge">
 </a>
 
 
